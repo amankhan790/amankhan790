@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Aman
-### A Passionate Frontend Developer from India
+### A Passionate Frontend Developer Based In India
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+JavaScript+Enthusiast+%E2%9A%A1;Building+Real+World+Projects+%F0%9F%8C%90;Currently+Learning+Next.js+%F0%9F%93%9A)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 - 🤝 Looking to collaborate on **Real World Projects**
 - 👨‍💻 All my projects: **[aman.webdev.me](https://amanwebdev.me)**
 - 💬 Ask me about **React & JavaScript**
-- 📄 My experience: **[View Resume](https://www.canva.com/design/DAG0Jb4kTHc/5Dy9zaZMu2fRytb6wm9F3A/view?utm_content=DAG0Jb4kTHc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc8f27178ce)**
+- 📄 My experience: **[View Resume](https://drive.google.com/file/d/1LnekGnAdTs9kgB8x746YfMAHXRlFiCBy/view?usp=sharing)**
 - 📫 Reach me at: **[aman.webdev.in@gmail.com](mailto:aman.webdev.in@gmail.com)**
 - ⚡ Fun fact: **I'm dangerously obsessed with web development!**
 
@@ -30,7 +30,7 @@
 <a href="mailto:aman.webdev.in@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://amankhan-portfolio.vercel.app/" target="_blank">
+<a href="https://amanwebdev.me" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
@@ -66,26 +66,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankhan790&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=amankhan790&theme=tokyonight&no-frame=true&margin-w=6&column=6)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankhan790&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
