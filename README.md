@@ -3,7 +3,7 @@
 # Hi 👋, I'm Aman
 ### A Passionate Full Stack Developer Based In India
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+JavaScript+Enthusiast+%E2%9A%A1;Building+Real+World+Projects+%F0%9F%8C%90;Currently+Learning+Next.js+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=FullStack+Developer+%F0%9F%9A%80;React+%26+JavaScript+Enthusiast+%E2%9A%A1;Building+Real+World+Projects+%F0%9F%8C%90;Currently+Learning+PostgreSQL+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
