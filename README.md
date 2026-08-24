@@ -43,16 +43,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Description |
-|--------|-------|-------------|
-| 🏢 **TopHired** | React, Supabase, Clerk | Role-based job portal for recruiters & candidates |
-| 🤖 **ResumeIQ** | React, Gemini AI, Supabase | AI-powered resume analyzer with scores & suggestions |
-| 🛒 **E-Commerce** | React, Vite, Tailwind | Full-featured SPA with cart, filters & auth |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
